@@ -1,2 +1,9 @@
 # hola-mundo
-Repositório de teste
+
+Hola personitas de grandes ideas!
+
+Este repositorio fue creado con la ayuda del gato "Github",
+muchos aplausos para nuestra querida mascota por su apoyo.
+
+Att.
+simplemente Yo.
